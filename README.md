@@ -1,2 +1,2 @@
-# Wifi-DDos
+# Wifi-Dos
 Python script for wifi DDos
